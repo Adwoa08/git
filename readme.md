@@ -1,2 +1,1 @@
-a little change
-good
+Practicing git from terminal
