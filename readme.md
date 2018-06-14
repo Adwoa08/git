@@ -1,1 +1,1 @@
-Practicing git from terminal
+Connecting my home laptop to this git repo
